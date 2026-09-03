@@ -444,14 +444,6 @@ It covers concepts including:
 
 ---
 
-## 👨‍💻 Developers
-
-This project was developed by:
-
-* **Aryan**
-
-
----
 
 ## 📂 Repository
 
