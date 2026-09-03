@@ -449,8 +449,7 @@ It covers concepts including:
 This project was developed by:
 
 * **Aryan**
-* **Janisha Sharma**
-* **Kush Gautam**
+
 
 ---
 
